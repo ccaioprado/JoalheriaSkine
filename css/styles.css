@@ -1,0 +1,289 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Início da área de formatação do header */
+header {
+  background-image: url(../img/jewel1.jpg);
+  transition: ease 2s;
+  padding-top: 150px;
+  background-position: 0 -1650px;
+}
+
+header h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: top;
+  font-size: 30pt;
+  color: white;
+}
+header h2 {
+  text-align: top;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+/* Final da área de formatação do header */
+
+/* Início da área de formatação do main */
+main #introducao {
+  display: inline-block;
+  font-size: 30pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+main #introducao h1 {
+  font-size: 25pt;
+  background-color: #bcaaa4;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+main #introducao p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+  margin: 10px;
+  color: black;
+  display: inline-block;
+  line-height: 30pt;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+main #introducao img {
+  margin-left: 100px;
+  width: 1800px;
+}
+
+main #historia h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #bcaaa4;
+  padding: 10pt;
+  text-align: center;
+}
+
+main #videos h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+  background-color: #bcaaa4;
+  color: white;
+}
+
+main #produtos {
+  background: #bcaaa4;
+  padding: 10px;
+  margin: 0;
+}
+
+main #produtos h1 {
+  font-size: 20pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+main #historia p {
+  font-size: 20pt;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 25pt;
+}
+
+/* Início da área de formatação do rubi */
+main #rubi img {
+  height: 150px;
+  width: 150px;
+  margin-left: 10pt;
+  margin-top: 10pt;
+}
+
+main #rubi h1 {
+  background-color: #bcaaa4;
+}
+
+main #rubi p,
+main #rubi span {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15;
+  width: 35pt;
+}
+
+main #rubi span {
+  color: red;
+}
+
+main #rubi {
+  background-color: #e0e0e0;
+}
+/* Fim da área de formatação do rubi */
+
+/* Início da área de formatação da safira */
+main #safira {
+  background-color: #e0e0e0;
+}
+
+main #safira img {
+  height: 150px;
+  width: 150px;
+  margin-left: 10pt;
+  margin-top: 10pt;
+}
+
+main #safira p,
+main #safira span {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15;
+  width: 35pt;
+}
+
+main #safira span {
+  color: red;
+}
+/* Fim da área de formatação da safira */
+
+/* Início da área de formatação da esmeralda */
+main #esmeralda {
+  background-color: #e0e0e0;
+}
+
+main #esmeralda img {
+  height: 150px;
+  width: 150px;
+  margin-left: 10pt;
+  margin-top: 10pt;
+}
+
+main #esmeralda p,
+main #esmeralda span {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15;
+  width: 35pt;
+}
+
+main #esmeralda span {
+  color: red;
+}
+/* Fim da área de formatação da esmeralda */
+
+/* Início da área de formatação da ametista */
+main #ametista {
+  background-color: #e0e0e0;
+}
+
+main #ametista img {
+  height: 150px;
+  width: 150px;
+  margin-left: 10pt;
+  margin-top: 10pt;
+}
+
+main #ametista p,
+main #ametista span {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15;
+  width: 35pt;
+}
+
+main #ametista span {
+  color: red;
+}
+/* Fim da área de formatação da ametista  */
+
+/* Início da área de formatação do diamante */
+main #diamante {
+  background-color: #e0e0e0;
+}
+
+main #diamante img {
+  height: 150px;
+  width: 150px;
+  margin-left: 10pt;
+  margin-top: 10pt;
+}
+
+main #diamante p,
+main #diamante span {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15;
+  width: 35pt;
+}
+
+main #diamante span {
+  color: red;
+}
+/* Fim da área de formatação do diamante */
+
+/* Início da formatação do mapa */
+main #mapa iframe {
+  width: 100%;
+  height: 500px;
+}
+
+main #mapa h1 {
+  background-color: #bcaaa4;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Fim da área de formatação do mapa */
+
+/* Fim da área de formatação do main */
+
+/* Início da área de formatação do footer */
+footer h5 {
+  margin: 10px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15pt;
+  color: white;
+}
+
+footer {
+  background-color: #bcaaa4;
+}
+
+footer #end p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15pt;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+footer h1 {
+  margin: 10pt;
+}
+
+footer #redes a {
+  text-decoration: none;
+  margin: 10px;
+}
+
+footer #redes a img {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  transition: ease 0.5s;
+}
+
+footer #redes a img:hover {
+  transform: rotate(360deg);
+}
+/* Final da área de formatação do footer */
